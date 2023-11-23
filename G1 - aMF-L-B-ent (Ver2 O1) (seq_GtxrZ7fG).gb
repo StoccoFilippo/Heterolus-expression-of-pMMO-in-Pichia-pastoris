@@ -1,0 +1,134 @@
+LOCUS       G1_-_aMF-L-B-ent_(Ver2_ 1665 bp ds-DNA     circular     15-AUG-2023
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     primer          7..31
+                     /label="Col YTK ins fwd"
+                     /note="sequence: tgattctgtggataaccgtagtcgg"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+     misc_feature    7..35
+                     /label="YTK insert FRW"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     protein_bind    30..35
+                     /label="BsaI Bind"
+                     /ApEinfo_revcolor="#b7e6d7"
+                     /ApEinfo_fwdcolor="#b7e6d7"
+     misc_feature    37..40
+                     /label="2-3"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+     misc_feature    38..304
+                     /label="aMF"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     misc_feature    305..331
+                     /label="aMF-Linker"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+     CDS             305..331
+                     /label="linker"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /translation="EEAEAEAPK"
+     sig_peptide     332..430
+                     /label="pmoB sig_peptide"
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+     CDS             332..1573
+                     /label="pmoB CDS (particulate methane monooxygenase 45 kDa subunit precursor)"
+                     /ApEinfo_revcolor="#b7e6d7"
+                     /ApEinfo_fwdcolor="#b7e6d7"
+     gene            332..1573
+                     /label="pmoB gene"
+                     /ApEinfo_revcolor="#d6b295"
+                     /ApEinfo_fwdcolor="#d6b295"
+     CDS             332..1573
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /translation="MKTIKDRIAKWSAIGLLSAVAATAFYAPSASAHGEKSQAAFMRMRTIHWYDLSWSKEKVKINETVEIKGKFHVFEGWPETVDEPDVAFLNVGMPGPVFIRKESYIGGQLVPRSVRLEIGKTYDFRVVLKARRPGDWHVHTMMNVQGGGPIIGPGKWITVEGSMSEFRNPVTTLTGQTVDLENYNEGNTYFWHAFWFAIGVAWIGYWSRRPIFIPRLLMVDAGRADELVSATDRKVAMGFLAATILIVVMAMSSANSKYPITIPLQAGTMRGMKPLELPAPTVSVKVEDATYRVPGRAMRMKLTITNHGNSPIRLGEFYTASVRFLDSDVYKDTTGYPEDLLAEDGLSVSDNSPLAPGETRTVDVTASDAAWEVYRLSDIIYDPDSRFAGLLFFFDATGNRQVVQIDAPLIPSFM"
+     misc_feature    428..847
+                     /label="pmoB1"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+     mat_peptide     431..1573
+                     /label="pmoB mat_peptide (particulate methane monooxygenase 45 kDa subunit)"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+     misc_feature    518..520
+                     /label="mutated Glu"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     misc_feature    884..952
+                     /label="THa1"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     misc_feature    1025..1099
+                     /label="THa2"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     misc_feature    1125..1573
+                     /label="pmoB2"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+     misc_feature    1574..1612
+                     /label="Linker"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+     CDS             1574..1612
+                     /label="linker"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /translation="MGSAGSAAGSGEF"
+     misc_feature    1613..1627
+                     /label="Enterokinase site"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     CDS             1613..1627
+                     /label="Enterokianse site"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /translation="DDDDK"
+     misc_feature    1628..1629
+                     /label="for frameshift"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+     misc_feature    complement(1635..1659)
+                     /label="Dummy bases"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     primer          complement(1635..1659)
+                     /label="Col - YTK ins rev"
+                     /note="sequence: gggcgttttttattggtctggtctc"
+                     /ApEinfo_revcolor="#b7e6d7"
+                     /ApEinfo_fwdcolor="#b7e6d7"
+ORIGIN
+        1 ggatcctgat tctgtggata accgtagtcg gtctcaTATG agatttccat cgatctttac
+       61 cgctgtatta ttcgcagcaa gttccgctct cgcggctcct gttaacacta caacagaaga
+      121 cgaaaccgcc caaattcccg ccgaagcagt catcggatac tctgatcttg aaggcgactt
+      181 cgatgttgct gttctgccat tctctaacag cactaacaat ggtctattgt ttataaatac
+      241 tacgattgct tccattgccg ccaaagagga gggtgtgtca ttggagaagc gtgaagctga
+      301 ggctgaggag gctgaagcag aagccccaaa gatgaaaaca ataaaggacc ggattgcaaa
+      361 atggtctgca atcggactgc tgtccgccgt ggcagcgacc gccttctatg cgccgagcgc
+      421 cagcgcccac ggtgagaaat cgcaggccgc gttcatgcgt atgcgtacca tccactggta
+      481 cgacctgagc tggtcgaaag agaaagtcaa gatcaacGAA accgtggaaa tcaaaggcaa
+      541 gttccacgtg ttcgaaggct ggccggaaac ggtcgacgaa ccggatgtgg cgttcctgaa
+      601 cgtcggcatg ccgggtccgg tgttcatccg caaggaatcg tacatcggcg gtcagctggt
+      661 gccgcgttcc gtacgtctgg aaatcggcaa gacctatgac ttccgggttg tcctcaaagc
+      721 ccgtcgtccg ggtgactggc acgttcacac catgatgaac gtccagggcg gtggaccgat
+      781 catcggtccc ggcaaatgga tcaccgtgga aggctccatg agtgaattcc gcaaccccgt
+      841 caccaccctg accggtcaga cggtggacct ggagaactac aacgaaggca acacctattt
+      901 ctggcacgcc ttctggttcg ccatcggagt tgcctggatc ggctactggt cgcgtcgacc
+      961 gatcttcatc ccccgtctgc tgatggtgga tgccggtcgt gcggacgaac tggtgtccgc
+     1021 caccgaccgc aaggtggcga tgggcttcct ggccgccacc atcctgatcg tggtcatggc
+     1081 catgtccagc gccaacagca agtacccgat caccatcccg ctgcaggccg gcaccatgcg
+     1141 tggcatgaag ccgctggaac tgccggcgcc gacggtatcg gtgaaagtgg aagacgccac
+     1201 ctaccgggta ccgggccgcg ccatgcggat gaagctgacc atcaccaacc acggcaacag
+     1261 cccgatccgg ctgggtgagt tctacaccgc ctcggtgcgt ttcctggatt ccgacgtgta
+     1321 caaggacacc accggctatc cggaagacct gctggccgaa gacggcctga gcgtcagcga
+     1381 caacagcccg ctggctccgg gtgagacgcg cacggtcgac gtgacggcgt ccgacgcggc
+     1441 gtgggaagtg taccgtctgt ccgacatcat ctacgatccg gacagccgtt tcgccggtct
+     1501 gctgttcttc ttcgacgcca ctggcaaccg ccaggtcgtc cagatcgacg caccgctgat
+     1561 cccgtcgttc atgATGGGTT CAGCCGGTTC CGCTGCAGGC TCTGGAGAAT TTGATGATGA
+     1621 CGACAAGccT TCTtgagacc agaccaataa aaaacgcccg agctc
+//

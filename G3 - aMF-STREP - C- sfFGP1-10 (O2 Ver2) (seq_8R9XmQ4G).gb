@@ -1,0 +1,133 @@
+LOCUS       G3_-_aMF-STREP_-_C-_sfF 1911 bp ds-DNA     circular     23-NOV-2023
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     primer          7..31
+                     /label="Col YTK ins fwd"
+                     /note="sequence: tgattctgtggataaccgtagtcgg"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+     CDS             38..40
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /translation="M"
+     misc_feature    41..304
+                     /label="aMF"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     CDS             41..304
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /translation="RFPSIFTAVLFAASSALAAPVNTTTEDETAQIPAEAVIGYSDLEGDFDVAVLPFSNSTNNGLLFINTTIASIAAKEEGVSLEKREAEA"
+     CDS             41..355
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /translation="RFPSIFTAVLFAASSALAAPVNTTTEDETAQIPAEAVIGYSDLEGDFDVAVLPFSNSTNNGLLFINTTIASIAAKEEGVSLEKREAEAEEAEAEAPKWSHPQFEK"
+     misc_feature    305..331
+                     /label="aMF-Linker"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+     CDS             305..331
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /translation="EEAEAEAPK"
+     misc_feature    332..355
+                     /label="StrepTag"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     CDS             332..355
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /translation="WSHPQFEK"
+     misc_feature    356..394
+                     /label="Linker"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+     CDS             356..394
+                     /label="linker"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /translation="MGSAGSAAGSGEF"
+     gene            395..1174
+                     /label="pmoC1 gene"
+                     /ApEinfo_revcolor="#75c6a9"
+                     /ApEinfo_fwdcolor="#75c6a9"
+     CDS             395..1174
+                     /label="pmoC1 CDS (particulate methane monoxygenase subunit)"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     CDS             395..1174
+                     /label="Translation 395-1174"
+                     /translation="MAATTIGGAAAAEAPLLDKKWLTFALAIYTVFYLWVRWYEGVYGWSAGLDSFAPEFETYWMNFLYTEIVLEIVTASILWGYLWKTRDRNLAALTPREELRRNFTHLVWLVAYAWAIYWGASYFTEQDGTWHQTIVRDTDFTPSHIIEFYLSYPIYIITGFAAFIYAKTRLPFFAKGISLPYLVLVVGPFMILPNVGLNEWGHTFWFMEELFVAPLHYGFVIFGWLALAVMGTLTQTFYRFAQGGLGQSLCEAVDEGLIAK"
+     CDS             395..1174
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /translation="MAATTIGGAAAAEAPLLDKKWLTFALAIYTVFYLWVRWYEGVYGWSAGLDSFAPEFETYWMNFLYTEIVLEIVTASILWGYLWKTRDRNLAALTPREELRRNFTHLVWLVAYAWAIYWGASYFTEQDGTWHQTIVRDTDFTPSHIIEFYLSYPIYIITGFAAFIYAKTRLPFFAKGISLPYLVLVVGPFMILPNVGLNEWGHTFWFMEELFVAPLHYGFVIFGWLALAVMGTLTQTFYRFAQGGLGQSLCEAVDEGLIAK"
+     misc_feature    1175..1213
+                     /label="Linker"
+                     /ApEinfo_revcolor="#b7e6d7"
+                     /ApEinfo_fwdcolor="#b7e6d7"
+     CDS             1175..1213
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /translation="MGSAGSAAGSGEF"
+     CDS             1175..1875
+                     /label="sfGFP"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+                     /translation="MGSAGSAAGSGEFDDDDKMSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNFNSHNVYITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSVLSKDPNEKI"
+     CDS             1175..1875
+                     /label="sfGFP"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+                     /translation="MGSAGSAAGSGEFDDDDKMSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNFNSHNVYITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSVLSKDPNEKI"
+     misc_feature    1214..1228
+                     /label="Enterokinase site"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     misc_feature    1229..1875
+                     /label="sfGFP1-10"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+     misc_feature    1876..1879
+                     /label="3a-3b"
+                     /ApEinfo_revcolor="#d6b295"
+                     /ApEinfo_fwdcolor="#d6b295"
+     primer          complement(1881..1905)
+                     /label="Col - YTK ins rev"
+                     /note="sequence: gggcgttttttattggtctggtctc"
+                     /ApEinfo_revcolor="#b7e6d7"
+                     /ApEinfo_fwdcolor="#b7e6d7"
+ORIGIN
+        1 ggatcctgat tctgtggata accgtagtcg gtctcgTATG AGATTTCCAT CGATCTTTAC
+       61 CGCTGTATTA TTCGCAGCAA GTTCCGCTCT CGCGGCTCCT GTTAACACTA CAACAGAAGA
+      121 CGAAACCGCC CAAATTCCCG CCGAAGCAGT CATCGGATAC TCTGATCTTG AAGGCGACTT
+      181 CGATGTTGCT GTTCTGCCAT TCTCTAACAG CACTAACAAT GGTCTATTGT TTATAAATAC
+      241 TACGATTGCT TCCATTGCCG CCAAAGAGGA GGGTGTGTCA TTGGAGAAGC GTGAAGCTGA
+      301 GGCTGAGGAG GCTGAAGCAG AAGCCCCAAA GTGGTCCCAT CCACAATTTG AAAAGATGGG
+      361 TTCAGCCGGT TCCGCTGCAG GCTCTGGAGA ATTTatggca gcaacaacaa ttggtggtgc
+      421 agctgctgct gaagctcccc tacttgataa gaagtggctc acttttgcac ttgcgattta
+      481 tactgtgttc tacctgtggg ttagatggta cgaaggtgtc tatggatggt ccgccggact
+      541 agactcgttt gctcctgagt tcgagactta ctggatgaat ttcttgtaca ccgaaatagt
+      601 cttagagatt gtgactgctt ctattttgtg gggttattta tggaaaaccc gtgacagaaa
+      661 cttggctgct ttgacaccac gtgaagagct tcgcagaaat tttactcatt tggtttggct
+      721 agttgcctat gcctgggcca tttattgggg cgcatcatac tttactgagc aagatggcac
+      781 ttggcatcaa acgattgtcc gagacacaga tttcaccccc agtcatatca tcgagttcta
+      841 tctgagctac ccaatataca tcatcaccgg ttttgctgcg ttcatctatg ccaaaacgag
+      901 gttacctttt tttgctaagg gaatttccct gccatacctg gtgttggttg ttggtccatt
+      961 tatgattctt cctaacgtag gtttgaacga atggggacac actttctggt tcatggaaga
+     1021 gctgttcgtt gctccgttac actacggttt tgtaattttt ggctggttag cattggccgt
+     1081 catgggtacc cttacacaaa ccttttatag attcgctcag ggagggttgg ggcagtctct
+     1141 ctgtgaagcc gttgatgaag gattgatagc taaaATGGGT TCAGCCGGTT CCGCTGCAGG
+     1201 CTCTGGAGAA TTTGATGATG ACGACAAGat GAGTAAGGGT GAAGAGCTGT TTACGGGCGT
+     1261 GGTACCAATT CTTGTTGAAT TAGATGGTGA TGTTAACGGA CATAAATTCT CGGTAAGGGG
+     1321 AGAGGGGGAA GGCGATGCTA CCAATGGTAA ATTGACTCTG AAATTTATTT GCACTACCGG
+     1381 TAAGCTTCCT GTCCCCTGGC CTACTTTGGT TACCACTCTA ACTTACGGAG TGCAATGTTT
+     1441 CTCCAGATAT CCCGACCATA TGAAAAGACA TGACTTTTTC AAATCAGCTA TGCCTGAGGG
+     1501 ATACGTCCAG GAGCGAACAA TTTCATTTAA AGATGACGGA ACCTACAAAA CACGTGCTGA
+     1561 AGTTAAGTTT GAGGGTGACA CACTTGTCAA TAGAATTGAA CTGAAGGGTA TAGATTTCAA
+     1621 GGAAGATGGT AACATCTTGG GACACAAGCT CGAATACAAC TTTAATTCTC ACAACGTTTA
+     1681 TATTACTGCA GATAAGCAAA AGAATGGTAT CAAGGCCAAC TTCAAAATCA GACATAACGT
+     1741 TGAGGACGGT TCCGTCCAGT TAGCCGACCA CTATCAACAA AACACGCCGA TAGGGGACGG
+     1801 CCCAGTGCTA TTGCCAGATA ATCATTATTT ATCTACACAG AGCGTTTTGt ctaaagatcc
+     1861 aaatgaaaag ATCCtTTCTt gagaccagac caataaaaaa cgcccgagct c
+//
